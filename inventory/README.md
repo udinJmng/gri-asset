@@ -1,0 +1,2 @@
+# inv-pic
+gambar-inventory
